@@ -1,1 +1,1 @@
-hello_world.py
+print("Olá, mundo! Meu GitHub acaba de nascer 🚀")
