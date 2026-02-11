@@ -1,11 +1,14 @@
-# Primeiros passos em programação 🚀
+# Primeiros Passos em Programação
 
-Repositório criado para registrar meus estudos iniciais em programação, com foco em lógica, Python e desenvolvimento web.
+Repositório com exercícios iniciais de programação focados em lógica e fundamentos utilizando Python.
 
-## Conteúdos
-- Exercícios de lógica de programação
-- Scripts simples em Python
-- Projetos iniciais em HTML e CSS
+## 📚 Conteúdo
+- Operações matemáticas
+- Cálculo de porcentagem
+- Exercícios práticos de lógica
 
-## Objetivo
-Desenvolver minhas habilidades técnicas, praticar continuamente e construir uma base sólida na área de Tecnologia da Informação.
+## 🛠️ Tecnologias utilizadas
+- Python
+
+## 🎯 Objetivo
+Desenvolver base sólida em lógica de programação e estruturação de código.
